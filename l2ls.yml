@@ -1,4 +1,5 @@
-# topology documentation: https://avd.arista.com/4.7/examples/l2ls-fabric/index.html
+# topology documentation: https://avd.arista.com/4.7/examples/l2ls-fabric/index.html Layer 2 Leaf Spine
+# The goal is to deploy a set of cEOS devices with interlinks predefined for our topology. Ready to config MLAG/BGP
 name: l2ls
 
 topology:
